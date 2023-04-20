@@ -1,0 +1,38 @@
+#circle {
+  width: 14px;
+  height: 14px;
+  background-color: #5964E0;
+  transition: all 0.3s ease-in-out;
+}
+
+input[type=checkbox] {
+}
+
+#searchPurple {
+  fill: red;
+}
+
+@media (min-width: 768px) {
+  .headerBackground {
+    border-bottom-left-radius: 100px 90px;
+  }
+}/*# sourceMappingURL=index.css.map */
+
+#opacityByLock{
+  background-image: 
+  linear-gradient(
+    rgba(0, 0, 0, 0.70), 
+    rgba(0, 0, 0, 0.70)
+  )
+}
+.stop-scrolling{
+height: 100%;
+overflow: hidden;
+}
+
+#ThumbnailJob{
+transition: all 0.25s ease-out;
+}
+#ThumbnailJob:hover {
+  transform: translateY(-25px);
+}
