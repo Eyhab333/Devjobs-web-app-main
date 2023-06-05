@@ -9,7 +9,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'header-mobile': "url('./assets/mobile/bg-pattern-header.svg')",
+        'header-mobile': "url('/assets/mobile/bg-pattern-header.svg')",
       }
     },
   },
